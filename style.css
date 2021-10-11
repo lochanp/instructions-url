@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+img {
+  margin: 1rem;
+}
+h1 {
+  text-align: center;
+}
+.instructions-content {
+  margin: 30px;
+}
